@@ -116,13 +116,5 @@ Fill in the values in `client/.env` (API URL, ImageKit keys, etc.).
 
 The app runs at `http://localhost:5173` and the API at `http://localhost:5000`.
 
-## Screenshots
-Add screenshots of the main pages here (home, find ride, track ride, admin dashboard).
-
-## Team
-Final year project developed as a group project by:
-- Qirat Rasheed
-- (add team member names)
-
 ## License
 This project is for educational purposes.
